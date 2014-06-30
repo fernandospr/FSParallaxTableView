@@ -19,3 +19,4 @@ This is done in this method:
 ```
 - (void)updateImageViewCellOffset:(FSParallaxTableViewCell *)cell
 ```
+Thanks to <a href="https://twitter.com/SebaVenditti">@SebaVenditti</a> for helping!
