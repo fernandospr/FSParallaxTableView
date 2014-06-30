@@ -1,0 +1,578 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CBDDE9C71961B1BF0092A731 /* FSParallaxTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CBDDE9C61961B1BF0092A731 /* FSParallaxTableViewCell.m */; };
+		CBDDE9D41961BC960092A731 /* img01@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9C91961BC960092A731 /* img01@2x.jpg */; };
+		CBDDE9D51961BC960092A731 /* img02@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9CA1961BC960092A731 /* img02@2x.jpg */; };
+		CBDDE9D61961BC960092A731 /* img03@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9CB1961BC960092A731 /* img03@2x.jpg */; };
+		CBDDE9D71961BC960092A731 /* img04@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9CC1961BC960092A731 /* img04@2x.jpg */; };
+		CBDDE9D81961BC960092A731 /* img05@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9CD1961BC960092A731 /* img05@2x.jpg */; };
+		CBDDE9D91961BC960092A731 /* img06@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9CE1961BC960092A731 /* img06@2x.jpg */; };
+		CBDDE9DA1961BC960092A731 /* img07@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9CF1961BC960092A731 /* img07@2x.jpg */; };
+		CBDDE9DB1961BC960092A731 /* img08@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9D01961BC960092A731 /* img08@2x.jpg */; };
+		CBDDE9DC1961BC960092A731 /* img09@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9D11961BC960092A731 /* img09@2x.jpg */; };
+		CBDDE9DD1961BC960092A731 /* img10@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9D21961BC960092A731 /* img10@2x.jpg */; };
+		CBDDE9DE1961BC960092A731 /* img11@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBDDE9D31961BC960092A731 /* img11@2x.jpg */; };
+		CBE781771961F1460061607C /* img01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE7816C1961F1460061607C /* img01.jpg */; };
+		CBE781781961F1460061607C /* img02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE7816D1961F1460061607C /* img02.jpg */; };
+		CBE781791961F1460061607C /* img03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE7816E1961F1460061607C /* img03.jpg */; };
+		CBE7817A1961F1460061607C /* img04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE7816F1961F1460061607C /* img04.jpg */; };
+		CBE7817B1961F1460061607C /* img05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE781701961F1460061607C /* img05.jpg */; };
+		CBE7817C1961F1460061607C /* img06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE781711961F1460061607C /* img06.jpg */; };
+		CBE7817D1961F1460061607C /* img07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE781721961F1460061607C /* img07.jpg */; };
+		CBE7817E1961F1460061607C /* img08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE781731961F1460061607C /* img08.jpg */; };
+		CBE7817F1961F1460061607C /* img09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE781741961F1460061607C /* img09.jpg */; };
+		CBE781801961F1460061607C /* img10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE781751961F1460061607C /* img10.jpg */; };
+		CBE781811961F1460061607C /* img11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CBE781761961F1460061607C /* img11.jpg */; };
+		CBFC8F701961A856008AD124 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBFC8F6F1961A856008AD124 /* Foundation.framework */; };
+		CBFC8F721961A856008AD124 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBFC8F711961A856008AD124 /* CoreGraphics.framework */; };
+		CBFC8F741961A856008AD124 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBFC8F731961A856008AD124 /* UIKit.framework */; };
+		CBFC8F7A1961A856008AD124 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CBFC8F781961A856008AD124 /* InfoPlist.strings */; };
+		CBFC8F7C1961A856008AD124 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CBFC8F7B1961A856008AD124 /* main.m */; };
+		CBFC8F801961A856008AD124 /* FSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CBFC8F7F1961A856008AD124 /* FSAppDelegate.m */; };
+		CBFC8F831961A856008AD124 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBFC8F811961A856008AD124 /* Main.storyboard */; };
+		CBFC8F861961A856008AD124 /* FSParallaxViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBFC8F851961A856008AD124 /* FSParallaxViewController.m */; };
+		CBFC8F881961A856008AD124 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBFC8F871961A856008AD124 /* Images.xcassets */; };
+		CBFC8F8F1961A856008AD124 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBFC8F8E1961A856008AD124 /* XCTest.framework */; };
+		CBFC8F901961A856008AD124 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBFC8F6F1961A856008AD124 /* Foundation.framework */; };
+		CBFC8F911961A856008AD124 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBFC8F731961A856008AD124 /* UIKit.framework */; };
+		CBFC8F991961A856008AD124 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CBFC8F971961A856008AD124 /* InfoPlist.strings */; };
+		CBFC8F9B1961A856008AD124 /* FSParallaxTableViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CBFC8F9A1961A856008AD124 /* FSParallaxTableViewTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CBFC8F921961A856008AD124 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CBFC8F641961A856008AD124 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CBFC8F6B1961A856008AD124;
+			remoteInfo = FSParallaxTableView;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CBDDE9C51961B1BF0092A731 /* FSParallaxTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSParallaxTableViewCell.h; sourceTree = "<group>"; };
+		CBDDE9C61961B1BF0092A731 /* FSParallaxTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSParallaxTableViewCell.m; sourceTree = "<group>"; };
+		CBDDE9C91961BC960092A731 /* img01@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img01@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9CA1961BC960092A731 /* img02@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img02@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9CB1961BC960092A731 /* img03@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img03@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9CC1961BC960092A731 /* img04@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img04@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9CD1961BC960092A731 /* img05@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img05@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9CE1961BC960092A731 /* img06@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img06@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9CF1961BC960092A731 /* img07@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img07@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9D01961BC960092A731 /* img08@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img08@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9D11961BC960092A731 /* img09@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img09@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9D21961BC960092A731 /* img10@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img10@2x.jpg"; sourceTree = "<group>"; };
+		CBDDE9D31961BC960092A731 /* img11@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img11@2x.jpg"; sourceTree = "<group>"; };
+		CBE7816C1961F1460061607C /* img01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img01.jpg; sourceTree = "<group>"; };
+		CBE7816D1961F1460061607C /* img02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img02.jpg; sourceTree = "<group>"; };
+		CBE7816E1961F1460061607C /* img03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img03.jpg; sourceTree = "<group>"; };
+		CBE7816F1961F1460061607C /* img04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img04.jpg; sourceTree = "<group>"; };
+		CBE781701961F1460061607C /* img05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img05.jpg; sourceTree = "<group>"; };
+		CBE781711961F1460061607C /* img06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img06.jpg; sourceTree = "<group>"; };
+		CBE781721961F1460061607C /* img07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img07.jpg; sourceTree = "<group>"; };
+		CBE781731961F1460061607C /* img08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img08.jpg; sourceTree = "<group>"; };
+		CBE781741961F1460061607C /* img09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img09.jpg; sourceTree = "<group>"; };
+		CBE781751961F1460061607C /* img10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img10.jpg; sourceTree = "<group>"; };
+		CBE781761961F1460061607C /* img11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img11.jpg; sourceTree = "<group>"; };
+		CBFC8F6C1961A856008AD124 /* FSParallaxTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FSParallaxTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBFC8F6F1961A856008AD124 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		CBFC8F711961A856008AD124 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		CBFC8F731961A856008AD124 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		CBFC8F771961A856008AD124 /* FSParallaxTableView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FSParallaxTableView-Info.plist"; sourceTree = "<group>"; };
+		CBFC8F791961A856008AD124 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CBFC8F7B1961A856008AD124 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CBFC8F7D1961A856008AD124 /* FSParallaxTableView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FSParallaxTableView-Prefix.pch"; sourceTree = "<group>"; };
+		CBFC8F7E1961A856008AD124 /* FSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FSAppDelegate.h; sourceTree = "<group>"; };
+		CBFC8F7F1961A856008AD124 /* FSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FSAppDelegate.m; sourceTree = "<group>"; };
+		CBFC8F821961A856008AD124 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CBFC8F841961A856008AD124 /* FSParallaxViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FSParallaxViewController.h; sourceTree = "<group>"; };
+		CBFC8F851961A856008AD124 /* FSParallaxViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FSParallaxViewController.m; sourceTree = "<group>"; };
+		CBFC8F871961A856008AD124 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CBFC8F8D1961A856008AD124 /* FSParallaxTableViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FSParallaxTableViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBFC8F8E1961A856008AD124 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		CBFC8F961961A856008AD124 /* FSParallaxTableViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FSParallaxTableViewTests-Info.plist"; sourceTree = "<group>"; };
+		CBFC8F981961A856008AD124 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CBFC8F9A1961A856008AD124 /* FSParallaxTableViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FSParallaxTableViewTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CBFC8F691961A856008AD124 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBFC8F721961A856008AD124 /* CoreGraphics.framework in Frameworks */,
+				CBFC8F741961A856008AD124 /* UIKit.framework in Frameworks */,
+				CBFC8F701961A856008AD124 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBFC8F8A1961A856008AD124 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBFC8F8F1961A856008AD124 /* XCTest.framework in Frameworks */,
+				CBFC8F911961A856008AD124 /* UIKit.framework in Frameworks */,
+				CBFC8F901961A856008AD124 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CBDDE9C81961BC8E0092A731 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CBE7816C1961F1460061607C /* img01.jpg */,
+				CBE7816D1961F1460061607C /* img02.jpg */,
+				CBE7816E1961F1460061607C /* img03.jpg */,
+				CBE7816F1961F1460061607C /* img04.jpg */,
+				CBE781701961F1460061607C /* img05.jpg */,
+				CBE781711961F1460061607C /* img06.jpg */,
+				CBE781721961F1460061607C /* img07.jpg */,
+				CBE781731961F1460061607C /* img08.jpg */,
+				CBE781741961F1460061607C /* img09.jpg */,
+				CBE781751961F1460061607C /* img10.jpg */,
+				CBE781761961F1460061607C /* img11.jpg */,
+				CBDDE9C91961BC960092A731 /* img01@2x.jpg */,
+				CBDDE9CA1961BC960092A731 /* img02@2x.jpg */,
+				CBDDE9CB1961BC960092A731 /* img03@2x.jpg */,
+				CBDDE9CC1961BC960092A731 /* img04@2x.jpg */,
+				CBDDE9CD1961BC960092A731 /* img05@2x.jpg */,
+				CBDDE9CE1961BC960092A731 /* img06@2x.jpg */,
+				CBDDE9CF1961BC960092A731 /* img07@2x.jpg */,
+				CBDDE9D01961BC960092A731 /* img08@2x.jpg */,
+				CBDDE9D11961BC960092A731 /* img09@2x.jpg */,
+				CBDDE9D21961BC960092A731 /* img10@2x.jpg */,
+				CBDDE9D31961BC960092A731 /* img11@2x.jpg */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		CBFC8F631961A856008AD124 = {
+			isa = PBXGroup;
+			children = (
+				CBFC8F751961A856008AD124 /* FSParallaxTableView */,
+				CBFC8F941961A856008AD124 /* FSParallaxTableViewTests */,
+				CBFC8F6E1961A856008AD124 /* Frameworks */,
+				CBFC8F6D1961A856008AD124 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CBFC8F6D1961A856008AD124 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CBFC8F6C1961A856008AD124 /* FSParallaxTableView.app */,
+				CBFC8F8D1961A856008AD124 /* FSParallaxTableViewTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CBFC8F6E1961A856008AD124 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CBFC8F6F1961A856008AD124 /* Foundation.framework */,
+				CBFC8F711961A856008AD124 /* CoreGraphics.framework */,
+				CBFC8F731961A856008AD124 /* UIKit.framework */,
+				CBFC8F8E1961A856008AD124 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CBFC8F751961A856008AD124 /* FSParallaxTableView */ = {
+			isa = PBXGroup;
+			children = (
+				CBFC8F7E1961A856008AD124 /* FSAppDelegate.h */,
+				CBFC8F7F1961A856008AD124 /* FSAppDelegate.m */,
+				CBFC8F811961A856008AD124 /* Main.storyboard */,
+				CBDDE9C51961B1BF0092A731 /* FSParallaxTableViewCell.h */,
+				CBDDE9C61961B1BF0092A731 /* FSParallaxTableViewCell.m */,
+				CBFC8F841961A856008AD124 /* FSParallaxViewController.h */,
+				CBFC8F851961A856008AD124 /* FSParallaxViewController.m */,
+				CBFC8F871961A856008AD124 /* Images.xcassets */,
+				CBDDE9C81961BC8E0092A731 /* Resources */,
+				CBFC8F761961A856008AD124 /* Supporting Files */,
+			);
+			path = FSParallaxTableView;
+			sourceTree = "<group>";
+		};
+		CBFC8F761961A856008AD124 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CBFC8F771961A856008AD124 /* FSParallaxTableView-Info.plist */,
+				CBFC8F781961A856008AD124 /* InfoPlist.strings */,
+				CBFC8F7B1961A856008AD124 /* main.m */,
+				CBFC8F7D1961A856008AD124 /* FSParallaxTableView-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CBFC8F941961A856008AD124 /* FSParallaxTableViewTests */ = {
+			isa = PBXGroup;
+			children = (
+				CBFC8F9A1961A856008AD124 /* FSParallaxTableViewTests.m */,
+				CBFC8F951961A856008AD124 /* Supporting Files */,
+			);
+			path = FSParallaxTableViewTests;
+			sourceTree = "<group>";
+		};
+		CBFC8F951961A856008AD124 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CBFC8F961961A856008AD124 /* FSParallaxTableViewTests-Info.plist */,
+				CBFC8F971961A856008AD124 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CBFC8F6B1961A856008AD124 /* FSParallaxTableView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CBFC8F9E1961A856008AD124 /* Build configuration list for PBXNativeTarget "FSParallaxTableView" */;
+			buildPhases = (
+				CBFC8F681961A856008AD124 /* Sources */,
+				CBFC8F691961A856008AD124 /* Frameworks */,
+				CBFC8F6A1961A856008AD124 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FSParallaxTableView;
+			productName = FSParallaxTableView;
+			productReference = CBFC8F6C1961A856008AD124 /* FSParallaxTableView.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CBFC8F8C1961A856008AD124 /* FSParallaxTableViewTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CBFC8FA11961A856008AD124 /* Build configuration list for PBXNativeTarget "FSParallaxTableViewTests" */;
+			buildPhases = (
+				CBFC8F891961A856008AD124 /* Sources */,
+				CBFC8F8A1961A856008AD124 /* Frameworks */,
+				CBFC8F8B1961A856008AD124 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CBFC8F931961A856008AD124 /* PBXTargetDependency */,
+			);
+			name = FSParallaxTableViewTests;
+			productName = FSParallaxTableViewTests;
+			productReference = CBFC8F8D1961A856008AD124 /* FSParallaxTableViewTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CBFC8F641961A856008AD124 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = FS;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = FS;
+				TargetAttributes = {
+					CBFC8F8C1961A856008AD124 = {
+						TestTargetID = CBFC8F6B1961A856008AD124;
+					};
+				};
+			};
+			buildConfigurationList = CBFC8F671961A856008AD124 /* Build configuration list for PBXProject "FSParallaxTableView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CBFC8F631961A856008AD124;
+			productRefGroup = CBFC8F6D1961A856008AD124 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CBFC8F6B1961A856008AD124 /* FSParallaxTableView */,
+				CBFC8F8C1961A856008AD124 /* FSParallaxTableViewTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CBFC8F6A1961A856008AD124 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBDDE9D51961BC960092A731 /* img02@2x.jpg in Resources */,
+				CBE7817E1961F1460061607C /* img08.jpg in Resources */,
+				CBDDE9D61961BC960092A731 /* img03@2x.jpg in Resources */,
+				CBDDE9DE1961BC960092A731 /* img11@2x.jpg in Resources */,
+				CBE7817C1961F1460061607C /* img06.jpg in Resources */,
+				CBE781791961F1460061607C /* img03.jpg in Resources */,
+				CBE7817D1961F1460061607C /* img07.jpg in Resources */,
+				CBFC8F881961A856008AD124 /* Images.xcassets in Resources */,
+				CBDDE9DD1961BC960092A731 /* img10@2x.jpg in Resources */,
+				CBFC8F7A1961A856008AD124 /* InfoPlist.strings in Resources */,
+				CBDDE9DB1961BC960092A731 /* img08@2x.jpg in Resources */,
+				CBE781781961F1460061607C /* img02.jpg in Resources */,
+				CBFC8F831961A856008AD124 /* Main.storyboard in Resources */,
+				CBE781811961F1460061607C /* img11.jpg in Resources */,
+				CBE781771961F1460061607C /* img01.jpg in Resources */,
+				CBE781801961F1460061607C /* img10.jpg in Resources */,
+				CBDDE9D41961BC960092A731 /* img01@2x.jpg in Resources */,
+				CBDDE9D91961BC960092A731 /* img06@2x.jpg in Resources */,
+				CBE7817B1961F1460061607C /* img05.jpg in Resources */,
+				CBDDE9D71961BC960092A731 /* img04@2x.jpg in Resources */,
+				CBDDE9D81961BC960092A731 /* img05@2x.jpg in Resources */,
+				CBE7817F1961F1460061607C /* img09.jpg in Resources */,
+				CBDDE9DA1961BC960092A731 /* img07@2x.jpg in Resources */,
+				CBDDE9DC1961BC960092A731 /* img09@2x.jpg in Resources */,
+				CBE7817A1961F1460061607C /* img04.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBFC8F8B1961A856008AD124 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBFC8F991961A856008AD124 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CBFC8F681961A856008AD124 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBFC8F7C1961A856008AD124 /* main.m in Sources */,
+				CBDDE9C71961B1BF0092A731 /* FSParallaxTableViewCell.m in Sources */,
+				CBFC8F801961A856008AD124 /* FSAppDelegate.m in Sources */,
+				CBFC8F861961A856008AD124 /* FSParallaxViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CBFC8F891961A856008AD124 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBFC8F9B1961A856008AD124 /* FSParallaxTableViewTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CBFC8F931961A856008AD124 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CBFC8F6B1961A856008AD124 /* FSParallaxTableView */;
+			targetProxy = CBFC8F921961A856008AD124 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CBFC8F781961A856008AD124 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CBFC8F791961A856008AD124 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CBFC8F811961A856008AD124 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CBFC8F821961A856008AD124 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CBFC8F971961A856008AD124 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CBFC8F981961A856008AD124 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CBFC8F9C1961A856008AD124 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CBFC8F9D1961A856008AD124 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CBFC8F9F1961A856008AD124 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FSParallaxTableView/FSParallaxTableView-Prefix.pch";
+				INFOPLIST_FILE = "FSParallaxTableView/FSParallaxTableView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		CBFC8FA01961A856008AD124 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FSParallaxTableView/FSParallaxTableView-Prefix.pch";
+				INFOPLIST_FILE = "FSParallaxTableView/FSParallaxTableView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		CBFC8FA21961A856008AD124 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/FSParallaxTableView.app/FSParallaxTableView";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FSParallaxTableView/FSParallaxTableView-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "FSParallaxTableViewTests/FSParallaxTableViewTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		CBFC8FA31961A856008AD124 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/FSParallaxTableView.app/FSParallaxTableView";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FSParallaxTableView/FSParallaxTableView-Prefix.pch";
+				INFOPLIST_FILE = "FSParallaxTableViewTests/FSParallaxTableViewTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CBFC8F671961A856008AD124 /* Build configuration list for PBXProject "FSParallaxTableView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CBFC8F9C1961A856008AD124 /* Debug */,
+				CBFC8F9D1961A856008AD124 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CBFC8F9E1961A856008AD124 /* Build configuration list for PBXNativeTarget "FSParallaxTableView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CBFC8F9F1961A856008AD124 /* Debug */,
+				CBFC8FA01961A856008AD124 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CBFC8FA11961A856008AD124 /* Build configuration list for PBXNativeTarget "FSParallaxTableViewTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CBFC8FA21961A856008AD124 /* Debug */,
+				CBFC8FA31961A856008AD124 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CBFC8F641961A856008AD124 /* Project object */;
+}
