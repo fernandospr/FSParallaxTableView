@@ -3,6 +3,8 @@ FSParallaxTableView
 
 Parallax effect for images in table view cells.
 
+![Demo](https://github.com/fernandospr/FSParallaxTableView/raw/master/images/FSParallaxTableViewDemo.gif)
+
 I have found many examples using UICollectionView, but I wanted to use a simple UITableView. That is why I decided to create this project.
 
 
