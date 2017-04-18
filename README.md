@@ -11,7 +11,7 @@ Parallax effect for images in table view cells.
 I have found many examples using UICollectionView, but I wanted to use a simple UITableView. That is why I decided to create this project.
 
 
-##How it works
+## How it works
 
 Assuming the images have a height greater than the height of the cells:
 * The top cell will show the first part of its image and will hide the bottom overflow.
